@@ -1,16 +1,29 @@
-I am a third year Political Science PhD student at University of California, San Diego.
+# Hi there, I'm Harry! 👋
+I am a third year political science PhD student at UCSD, specializing in political economy, quantitative methods, financial modeling, and text analysis. I love working with data and solving complex problems with innovative approaches. For my dissertation, I am working on how political risk and uncertainty shape financial markets.
 
-<!--
-**harryziyuhe/harryziyuhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Areas of Interest
+- The intersection between politics and finance
+- Machine learning
+- Text analysis
+- Financial time-series inference and prediction
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- **[WeChat Scraping](https://github.com/harryziyuhe/wechat_scraping)**: An semi-automated scraper for collecting official account posts from WeChat
+- **[Expected Return](https://github.com/JustinMShea/ExpectedReturns)**: An R package for conducting financial time-series analyses and forecasting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Programming**: Python, R
+- **Data Science**: PyTorch, NLP, embedding, spatial models
+
+## 🎓 Education
+- PhD in Political Science, UC San Diego
+- M.S. in Computer Science and Engineering, UC San Diego
+
+## 🌍 Contributions
+- Contributor to [Open Source Project](link)
+
+## 📫 Contact Me
+- Email: [zih028@ucsd.edu](mailto:zih028@ucsd.edu)
+
+## 🎉 Fun Facts
+- When I'm not coding, you can find me crafting ceramics or planning my next travel adventure!
