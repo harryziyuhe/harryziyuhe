@@ -6,6 +6,7 @@ I am a third year political science PhD student at UCSD, specializing in politic
 - Machine learning
 - Text analysis
 - Financial time-series inference and prediction
+- Data availability and distribution
 
 ## 🚀 Current Projects
 - **[WeChat Scraping](https://github.com/harryziyuhe/wechat_scraping)**: An semi-automated scraper for collecting official account posts from WeChat
@@ -19,8 +20,11 @@ I am a third year political science PhD student at UCSD, specializing in politic
 - PhD in Political Science, UC San Diego
 - M.S. in Computer Science and Engineering, UC San Diego
 
-## 🌍 Contributions
+## :earth_asia: Contributions
 - Contributor to [Expected Returns](https://github.com/JustinMShea/ExpectedReturns)
+
+## :minidisc: Packages
+- **[CongressLib](https://github.com/harryziyuhe/CongressLib)**: A Python client library for interacting with the Congress.gov API. More analysis features are coming. Package available on PyPI under [CongressLib](https://pypi.org/project/CongressLib/)
 
 ## 📫 Contact Me
 - Email: [zih028@ucsd.edu](mailto:zih028@ucsd.edu)
