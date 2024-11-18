@@ -9,7 +9,7 @@ I am a third year political science PhD student at UCSD, specializing in politic
 
 ## 🚀 Current Projects
 - **[WeChat Scraping](https://github.com/harryziyuhe/wechat_scraping)**: An semi-automated scraper for collecting official account posts from WeChat
-- **[Expected Return](https://github.com/JustinMShea/ExpectedReturns)**: An R package for conducting financial time-series analyses and forecasting
+- **[Expected Returns](https://github.com/JustinMShea/ExpectedReturns)**: An R package for conducting financial time-series analyses and forecasting
 
 ## 🛠️ Skills & Technologies
 - **Programming**: Python, R
@@ -20,7 +20,7 @@ I am a third year political science PhD student at UCSD, specializing in politic
 - M.S. in Computer Science and Engineering, UC San Diego
 
 ## 🌍 Contributions
-- Contributor to [Open Source Project](link)
+- Contributor to [Expected Returns](https://github.com/JustinMShea/ExpectedReturns)
 
 ## 📫 Contact Me
 - Email: [zih028@ucsd.edu](mailto:zih028@ucsd.edu)
