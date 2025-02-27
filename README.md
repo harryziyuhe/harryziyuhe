@@ -1,5 +1,5 @@
 # Hi there, I'm Harry! 👋
-I am a third year political science PhD student at UCSD, specializing in political economy, quantitative methods, financial modeling, and text analysis. I love working with data and solving complex problems with innovative approaches. For my dissertation, I am working on how political risk and uncertainty shape financial markets.
+I am a third year political science PhD student at UCSD, specializing in political economy, quantitative methods, financial modeling, and text analysis. I love working with data and solving complex problems with innovative approaches. For my dissertation, I am working on how political risk and uncertainty shape corporate political strategies and financial markets.
 
 ## 🌱 Areas of Interest
 - The intersection between politics and finance
