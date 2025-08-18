@@ -8,9 +8,11 @@ I am a third year political science PhD student at UCSD, specializing in politic
 - Financial time-series inference and prediction
 - Data availability and distribution
 
-## 🚀 Current Projects
-- **[WeChat Scraping](https://github.com/harryziyuhe/wechat_scraping)**: An semi-automated scraper for collecting official account posts from WeChat
+## 🚀 Projects
+- **[Capnet](https://github.com/harryziyuhe/capnet)**: An R package for fitting elastic net linear regression model with customized feature contribution caps
 - **[Expected Returns](https://github.com/JustinMShea/ExpectedReturns)**: An R package for conducting financial time-series analyses and forecasting
+- **[WeChat Scraping](https://github.com/harryziyuhe/wechat_scraping) (Closed)**: An semi-automated scraper for collecting official account posts from WeChat
+
 
 ## 🛠️ Skills & Technologies
 - **Programming**: Python, R
