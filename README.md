@@ -6,7 +6,7 @@ I am a third year political science PhD student at UCSD, specializing in politic
 - Machine learning
 - Text analysis
 - Financial time-series inference and prediction
-- Data availability and distribution
+- Data availability and reproduction
 
 ## 🚀 Projects
 - **[Capnet](https://github.com/harryziyuhe/capnet)**: An R package for fitting elastic net linear regression model with customized feature contribution caps
@@ -21,6 +21,12 @@ I am a third year political science PhD student at UCSD, specializing in politic
 ## 🎓 Education
 - PhD in Political Science, UC San Diego
 - M.S. in Computer Science and Engineering, UC San Diego
+
+## Research & Publications
+- Brodeur, A., Mikola, D., Cook, N., **He, H.**, et al. (2026). "Reproducibility and Robustness of Economics and Political Science Research." \textit{Nature} 652, 151-156.
+- **He, H.** (2026). "Why Firms Give: Corporate Campaign Contributions under Electoral Uncertainty." Working Paper.
+- **He, H.** (2026). "Do Markets Agree on Elections? Evidence from Option-Implied Political Beliefs." Working Paper.
+- Chester, P., **He, H.** (2026). "Extracting Constitutional Entities with Transformer-based and Large Language Models." Working Paper.
 
 ## :earth_asia: Contributions
 - Contributor to [Expected Returns](https://github.com/JustinMShea/ExpectedReturns)
