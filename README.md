@@ -23,7 +23,7 @@ I am a third year political science PhD student at UCSD, specializing in politic
 - M.S. in Computer Science and Engineering, UC San Diego
 
 ## Research & Publications
-- Brodeur, A., Mikola, D., Cook, N., **He, H.**, et al. (2026). "Reproducibility and Robustness of Economics and Political Science Research." \textit{Nature} 652, 151-156.
+- Brodeur, A., Mikola, D., Cook, N., **He, H.**, et al. (2026). "Reproducibility and Robustness of Economics and Political Science Research." *Nature* 652, 151-156.
 - **He, H.** (2026). "Why Firms Give: Corporate Campaign Contributions under Electoral Uncertainty." Working Paper.
 - **He, H.** (2026). "Do Markets Agree on Elections? Evidence from Option-Implied Political Beliefs." Working Paper.
 - Chester, P., **He, H.** (2026). "Extracting Constitutional Entities with Transformer-based and Large Language Models." Working Paper.
