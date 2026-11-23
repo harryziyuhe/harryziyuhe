@@ -16,7 +16,7 @@ I am particularly interested in building rigorous, interpretable methods for **f
 ## Selected Projects
 
 ### [capnet](https://github.com/harryziyuhe/capnet)
-An R package for **contribution-capped regularization**, extending elastic-net models with feature-level contribution constraints designed to improve robustness when individual predictors can generate outsized model exposures.
+An R package for **contribution-capped regularization**, extending elastic-net models with feature-level contribution constraints designed to improve robustness when individual predictors can generate outsized model exposures. Available on [CRAN](10.32614/CRAN.package.capnet)
 
 ### [Expected Returns](https://github.com/JustinMShea/ExpectedReturns)
 Contributor to an R package for financial time-series analysis, forecasting, and predictive modeling.
